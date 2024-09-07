@@ -1,4 +1,3 @@
-# GUESS-THE-NUMBER-GAME DEVELOPED A GUESSING THE NUMBER GAME USING JAVA
 import java.util.Random;
 import java.util.Scanner;
 
